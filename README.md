@@ -1,4 +1,8 @@
-### Hi there 👋
+# Alex Campo
+
+- 📫 How to reach me: abrettc@gmail.com
+- 😄 Pronouns: he/him/his
+
 
 <!--
 **alexcampo5/alexcampo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

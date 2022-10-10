@@ -7,7 +7,7 @@ I am a detail-oriented and determined software developer who has the rare combin
 - 🌍 I'm based in Austin, TX
 - 🖥️ See my portfolio at https://acampoportfolio.netlify.app/
 - 🔭 I’m currently working on an app to help facilitate a silent auction for a local Boys and Girls Club
-- 🧠 I'm currently learning Typescript
+- 🧠 I'm currently learning Typescript in React
 
 GitHub Stats:
 

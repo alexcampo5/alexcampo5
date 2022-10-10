@@ -1,5 +1,7 @@
 # Alex Campo
 
+I am a detail-oriented and determined software developer who has the rare combination of technical acuity as well as client relationship management from leading organizations across a variety of industries. Teamwork is at the center of everything I do, and believe that working and learning alongside others lifts everyone up together.
+
 - 📫 How to reach me: abrettc@gmail.com
 - 😄 Pronouns: he/him/his
 

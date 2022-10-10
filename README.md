@@ -9,9 +9,9 @@ I am a detail-oriented and determined software developer who has the rare combin
 - 🔭 I’m currently working on an app to help facilitate a silent auction for a local Boys and Girls Club
 - 🧠 I'm currently learning Typescript
 
-##GitHub Stats:
+GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcampo5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcampo5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -9,7 +9,7 @@ I am a detail-oriented and determined software developer who has the rare combin
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,netlify,nodejs,postgres,py,django,react,ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,js,html,css,express,mongodb,netlify,nodejs,postgres,py,django,react,ts,vue)](https://skillicons.dev)
 
 
 GitHub Stats:
